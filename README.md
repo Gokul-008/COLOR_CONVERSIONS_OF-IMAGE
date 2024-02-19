@@ -27,8 +27,8 @@ Anaconda - Python 3.7
 
 ##### Program:
 ```
-### Developed By: SRI KARTHICKEYAN GANAPATHY
-### Register Number: 212222240102
+### Developed By: GOKUL.M
+### Register Number: 212222230037
 ```
 <table>
   <tr>
@@ -39,16 +39,17 @@ Anaconda - Python 3.7
     import cv2
     image=cv2.imread('dip.jpg',1)
     image=cv2.resize(image,(400,300))
-    cv2.imshow('SRI KARTHICK',image)
+    cv2.imshow('IMAGE',image)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 ``` 
   </td>
   <td>
 
-### OUTPUT:
 
- <img src="https://github.com/srikarthickeyanganapathy/COLOR_CONVERSIONS_OF-IMAGE/assets/119393842/26532ef4-a1c3-4a33-a340-9266b47f50c2">
+### OUTPUT:
+![Screenshot (92)](https://github.com/Gokul-008/COLOR_CONVERSIONS_OF-IMAGE/assets/121165996/9a443b20-7e7b-4446-817e-d79a75064f09)
+
   </td>
   </tr>
 
